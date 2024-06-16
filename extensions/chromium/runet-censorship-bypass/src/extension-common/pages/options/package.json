@@ -15,7 +15,7 @@
     "inferno": "~3.2.0",
     "inferno-component": "^3.10.1",
     "inferno-create-element": "^3.10.1",
-    "webpack": "^2.5.1"
+    "webpack": "^5.92.0"
   },
   "scripts": {
     "check": "flow status",
